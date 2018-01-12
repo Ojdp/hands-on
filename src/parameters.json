@@ -1,0 +1,7 @@
+{ 
+   "DIRECTORIES": {
+     "DATA_DIR":"../data",
+     "TMP_DIR":"../..tmp"
+   }
+    
+}
